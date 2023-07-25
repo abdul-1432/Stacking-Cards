@@ -9,6 +9,7 @@ Stacking Cards on Scroll is a simple and elegant web application that demonstrat
 
 ![1](https://github.com/abdul-1432/Stacking-Cards/assets/124916666/20eaf683-3b00-4764-ab46-d36f5a5c3c44)
 
+![2](https://github.com/abdul-1432/Stacking-Cards/assets/124916666/0dc9a660-5055-418d-9a9f-60df16d71311)
 
 ## Features
 
