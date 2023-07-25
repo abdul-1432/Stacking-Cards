@@ -22,7 +22,7 @@ Try out the live demo [here](https://yourusername.github.io/stacking-cards-on-sc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/stacking-cards-on-scroll.git
+   https://github.com/abdul-1432/Stacking-Cards/blob/main/stacking%20cards/home.html
    ```
 
 2. Navigate to the project directory:
