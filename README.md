@@ -15,7 +15,7 @@ Stacking Cards on Scroll is a simple and elegant web application that demonstrat
 
 ## Demo
 
-Try out the live demo [here](https://yourusername.github.io/stacking-cards-on-scroll).
+Try out the live demo [here](https://codepen.io/abdul-1432/pen/mdQGaKr).
 
 ## Usage
 
