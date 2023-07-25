@@ -5,7 +5,10 @@
 
 Stacking Cards on Scroll is a simple and elegant web application that demonstrates a smooth and visually appealing stacking effect of cards as the user scrolls down the page. The project aims to provide an easily customizable and reusable solution for developers who want to implement a similar effect on their websites or web applications.
 
-![Stacking Cards on Scroll Demo](demo.gif)
+# Preview
+
+![1](https://github.com/abdul-1432/Stacking-Cards/assets/124916666/20eaf683-3b00-4764-ab46-d36f5a5c3c44)
+
 
 ## Features
 
